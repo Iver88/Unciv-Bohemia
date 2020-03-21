@@ -16,5 +16,23 @@
 				"quote": "'Beer is proof that God loves us and wants us to be happy.' - Benjamin Franklin"
 			}
 		]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Classical",
+		"techCost": 175,
+		"buildingCost": 120,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Philosophy",
+				"row": 3,
+				"prerequisites": [
+					"Writing",
+					"Brewing"
+				],
+				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+			}
+		]
 	}
 ]
