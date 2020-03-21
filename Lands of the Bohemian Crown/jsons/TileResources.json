@@ -1,13 +1,15 @@
 [
 	{
 		"name": "Hops",
-		"resourceType": "Bonus",
+		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [
 			"Grassland",
 			"Plains"
 		],
+		"gold": 1,
 		"improvement": "Plantation",
 		"improvementStats": {
+			"gold": 1,
 			"food": 1
 		},
 		"building": "Granary"
