@@ -15,7 +15,7 @@
 			"Can build improvements on tiles, Founds a new city, Cannot enter ocean tiles, Heals [50] damage if it kills a unit, Must set up to ranged attack, Can construct roads, Penalty vs City 33%, Combat very likely to create Great Generals, +1 Visibility Range"
 		],
 		"hurryCostModifier": 15,
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
 		"requiredResource": "Horses"
 	}
 ]
