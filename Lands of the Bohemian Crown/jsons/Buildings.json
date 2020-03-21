@@ -8,6 +8,9 @@
 		"culture": 1,
 		"food": 1,
 		"cost": 1,
+		"resourceBonusStats": {
+			"production": 1
+		},
 		"requiredNearbyImprovedResources": [
 			"Hops"
 		],
