@@ -4,8 +4,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": [
 			"Grassland",
-			"Plains",
-			"Flood plains"
+			"Plains"
 		],
 		"improvement": "Plantation",
 		"improvementStats": {
