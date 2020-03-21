@@ -51,7 +51,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 #### New resources
 
 ##### Hops
-[Hops](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Hops.png?raw=true)
+![Hops](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Hops.png?raw=true)
 
 New luxury resource. Grows on grasslands and plains and provide gold.
 
