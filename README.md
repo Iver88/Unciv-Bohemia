@@ -4,8 +4,8 @@ Unciv mod based on Bohemian, Moravian and Silesian realia
 
 *Rule as Charles IV. - King of Bohemia, Holy Roman emperor and father of Czech people.
 
-![Civilization description](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Images/Civilization%20description.png?raw=true)
-![Ingame Screenshot](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Images/Ingame%20screenshot.png?raw=true)
+![Civilization description](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Civilization%20description.png?raw=true)
+![Ingame Screenshot](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Ingame%20screenshot.png?raw=true)
 
 ## Features
 Every feature is based on historical context.
@@ -55,6 +55,8 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 
 ## Todo
 - Hops (unique luxury resource, standalone as well, implemented and waiting for graphic)
+![Hops](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Hops.png?raw=true)
+![Hops yield](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Hops%20yield.png?raw=true)
 - Brewing (new tech, standalone as well)
 - Brewery (new building providing hapyness, needs brewing and hop, standalone as well)
 - Honey (unique bonus resource, standalone as well)
