@@ -4,6 +4,9 @@ Unciv mod based on Bohemian, Moravian and Silesian realia
 
 *Rule as Charles IV. - King of Bohemia, Holy Roman emperor and father of Czech people.
 
+![Civilization description](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Images/Civilization%20description.png?raw=true)
+![Ingame Screenshot](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Images/Ingame%20screenshot.png?raw=true)
+
 ## Features
 Every feature is based on historical context.
 
@@ -26,8 +29,10 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Required tech: Theology (creation of Hussite movement by Jan Hus)
 - Upgrades to: Knight (Hussite Crusades)
 - Obsolete tech: Military Science (no need for war wagons)
+- Cost: 112
 
 ###### Advantages
+- Bonus vs Mounted 50 %
 - Combat strength greater than Chariot Archer (due to multiple Hussits on wagon)
 - Can build improvements on tiles (tools on wagon)
 - Founds a new city (was used for creating of warior camps like Tábor city)
@@ -45,7 +50,11 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Penalty vs City 33 % (used for defense only)
 - Need horses
 
+## Recommend modifications
+- [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690908006291996723/GK_Resources_v1.0.zip)
+
 ## Todo
+- Possibility for Hussite War Wagon to founds a new city when full health
 - Hop (unique bonus resource, standalone as well)
 - Brewing (new tech, standalone as well)
 - Brewery (new building providing hapyness, needs brewing and hop, standalone as well)
