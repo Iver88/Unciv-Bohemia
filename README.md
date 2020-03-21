@@ -16,8 +16,8 @@ Every feature is based on historical context.
 
 #### Uniques
 
-##### Slavic Dances
-+ 2 Culture per turn from cities before discovering Steam Power
+##### Hearth of Europe
+Golden Ages last 50 % longer. During a Golden Age, unit receive + 1 Movement and + 10 % Strength
 
 ##### Hussite War Wagon
 Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for building camps and roads. Replaces Chariot Archer.
@@ -48,8 +48,10 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 ## Todo
 - Hop (unique bonus resource, standalone as well)
 - Brewing (new tech, standalone as well)
+- Brewery (new building providing hapyness, needs brewing and hop, standalone as well)
 - Honey (unique bonus resource, standalone as well)
 - Beekeeping (new tech, standalone as well)
+- Charles University (unique building replacing University)
 - Loket city state (home of Charles IV. not included in nation cities due to small size)
 - Jan Hus (great prophet)
 - Jan Žižka z Trocnova (great general)
