@@ -1,0 +1,20 @@
+[
+	{
+		"columnNumber": 3,
+		"era": "Classical",
+		"techCost": 105,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Brewing",
+				"cost": 70,
+				"row": 2,
+				"prerequisites": [
+					"Calendar"
+				],
+				"quote": "'Beer is proof that God loves us and wants us to be happy.' - Benjamin Franklin"
+			}
+		]
+	}
+]

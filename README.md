@@ -48,14 +48,34 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Penalty vs City 33 % (used for defense only)
 - Need horses
 
+#### New resources
+
+##### Hops
+[Hops](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Hops.png?raw=true)
+
+New luxury resource. Grows on grasslands and plains and provide gold.
+
+#### New techs
+
+##### Brewing
+Unlocks Hop garden improvement for Hops luxury resource and Brewery building. Requires Calendar for unlock.
+
+#### New improvements
+
+##### Hop garden
+Improvement for Hops luxury resource. Required for Brewery building. Unlocked by Brewing tech. Increases gold and production income. Provides increased gold and production income after researching of Fertilizer.
+
+#### New buidings
+
+##### Brewery
+New building which decreasing production, but increasing hapiness, food, culture and gold income. Removes unhappiness in anexed cities and providing free great person. Requires Brewing tech and Hop garden improvement.
+
 ## Recommend modifications
-- [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690908006291996723/GK_Resources_v1.0.zip)
+- [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
 
 ## Todo
-- Hops (unique luxury resource, standalone as well, implemented and waiting for graphic)
-![Hops](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Hops.png?raw=true)
-- Brewing (new tech, standalone as well)
-- Brewery (new building providing hapyness, needs brewing and hop, standalone as well)
+- Hops (waiting for tile graphic)
+- Standalone Brewing mod
 - Honey (unique bonus resource, standalone as well)
 - Beekeeping (new tech, standalone as well)
 - Charles University (unique building replacing Oxford University)
@@ -70,5 +90,8 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
 
 - [Crown](https://thenounproject.com/search/?q=crown&i=1773546) by OneShot for Lands of the Bohemian Crown nation
-- [wagon](https://thenounproject.com/search/?q=wagon&i=2054826) by Mohamed Mbarki for Hussite War Wagon unit
+- [wagon](https://thenounproject.com/search/?q=wagon&i=2054826) by Mohamed Mbarki for Hussite war wagon unit
 - [hop](https://thenounproject.com/search/?q=hop&i=2803410) by Phạm Thanh Lộc for Hops
+- [Beer](https://thenounproject.com/search/?q=beer&i=3191428) by Vectorstall for Brewing
+- [Hops](https://thenounproject.com/search/?q=hop&i=1821207) by dDara for Hop garden
+- [pub](https://thenounproject.com/search/?q=brewery&i=2559155) by LAFS for Brewery

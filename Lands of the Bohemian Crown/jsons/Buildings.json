@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Brewery",
+		"hurryCostModifier": 25,
+		"happiness": 1,
+		"production": -2,
+		"gold": 1,
+		"culture": 1,
+		"food": 1,
+		"cost": 1,
+		"requiredNearbyImprovedResources": [
+			"Hops"
+		],
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
+			"Free Great Person"
+		],
+		"requiredTech": "Brewing"
+	}
+]

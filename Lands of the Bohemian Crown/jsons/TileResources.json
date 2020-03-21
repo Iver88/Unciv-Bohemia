@@ -7,10 +7,10 @@
 			"Plains"
 		],
 		"gold": 1,
-		"improvement": "Plantation",
+		"improvement": "Hop garden",
 		"improvementStats": {
 			"gold": 1,
-			"food": 1
+			"production": 1
 		},
 		"building": "Granary"
 	}
