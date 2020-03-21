@@ -1,7 +1,5 @@
 # Lands of the Bohemian Crown (testing version)
 
-Unciv mod based on Bohemian, Moravian and Silesian realia
-
 *Rule as Charles IV. - King of Bohemia, Holy Roman emperor and father of Czech people.
 
 ![Civilization description](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown/blob/master/Lands%20of%20the%20Bohemian%20Crown/Preview/Civilization%20description.png?raw=true)
