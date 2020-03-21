@@ -1,4 +1,4 @@
-# Lands of the Bohemian Crown
+# Lands of the Bohemian Crown (testing version)
 
 Unciv mod based on Bohemian, Moravian and Silesian realia
 
