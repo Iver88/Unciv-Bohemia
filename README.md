@@ -37,7 +37,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Heals 50 damage (Hussits was almost invincible with their wagons)
 - Can construct roads (tools on wagon)
 - Combat very likely to create Great General (there was lot of great generals in Hussite history like Jan Žižka z trocnova or Jan Želivský)
-- + 1 Visibility Range (used as mobile border control point)
+- +1 Visibility Range (used as mobile border control point)
 - 25 % lesser gold price (patriotism)
 
 ###### Disadvantages
