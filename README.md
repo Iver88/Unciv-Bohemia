@@ -54,8 +54,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690908006291996723/GK_Resources_v1.0.zip)
 
 ## Todo
-- Possibility for Hussite War Wagon to founds a new city when full health
-- Hop (unique bonus resource, standalone as well)
+- Hop (unique bonus resource, standalone as well, implemented and waiting for graphic)
 - Brewing (new tech, standalone as well)
 - Brewery (new building providing hapyness, needs brewing and hop, standalone as well)
 - Honey (unique bonus resource, standalone as well)
@@ -65,4 +64,5 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Jan Hus (great prophet)
 - Jan Žižka z Trocnova (great general)
 - Jan Želivský (great general)
+- Possibility for Hussite War Wagon to founds a new city when full health
 - Kdož jste boží bojovníci (civ unique instead of actual)
