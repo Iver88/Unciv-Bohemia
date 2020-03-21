@@ -46,7 +46,12 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Need horses
 
 ## Todo
-- Jan Hus
-- Jan Žižka z Trocnova
-- Jan Želivský
-- Kdož jste boží bojovníci
+- Hop (unique bonus resource, standalone as well)
+- Brewing (new tech, standalone as well)
+- Honey (unique bonus resource, standalone as well)
+- Beekeeping (new tech, standalone as well)
+- Loket city state (home of Charles IV. not included in nation cities due to small size)
+- Jan Hus (great prophet)
+- Jan Žižka z Trocnova (great general)
+- Jan Želivský (great general)
+- Kdož jste boží bojovníci (civ unique instead of actual)
