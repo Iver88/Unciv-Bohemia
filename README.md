@@ -58,7 +58,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Brewery (new building providing hapyness, needs brewing and hop, standalone as well)
 - Honey (unique bonus resource, standalone as well)
 - Beekeeping (new tech, standalone as well)
-- Charles University (unique building replacing University)
+- Charles University (unique building replacing Oxford University)
 - Loket city state (home of Charles IV. not included in nation cities due to small size)
 - Jan Hus (great prophet)
 - Jan Žižka z Trocnova (great general)
