@@ -54,7 +54,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690908006291996723/GK_Resources_v1.0.zip)
 
 ## Todo
-- Possibility for Hussite War Wagon to build cities when full health
+- Possibility for Hussite War Wagon to founds a new city when full health
 - Hop (unique bonus resource, standalone as well)
 - Brewing (new tech, standalone as well)
 - Brewery (new building providing hapyness, needs brewing and hop, standalone as well)
