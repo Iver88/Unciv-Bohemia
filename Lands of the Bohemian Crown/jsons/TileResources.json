@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Hop",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [
+			"Grassland",
+			"Plains",
+			"Flood plains"
+		],
+		"improvement": "Plantation",
+		"improvementStats": {
+			"food": 1
+		},
+		"building": "Granary"
+	}
+]
