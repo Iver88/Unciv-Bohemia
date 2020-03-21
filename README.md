@@ -4,6 +4,9 @@ Unciv mod based on Bohemian, Moravian and Silesian realia
 
 *Rule as Charles IV. - King of Bohemia, Holy Roman emperor and father of Czech people.
 
+![Image description](link-to-image)
+![Image description](link-to-image)
+
 ## Features
 Every feature is based on historical context.
 
@@ -26,8 +29,10 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Required tech: Theology (creation of Hussite movement by Jan Hus)
 - Upgrades to: Knight (Hussite Crusades)
 - Obsolete tech: Military Science (no need for war wagons)
+- Cost: 112
 
 ###### Advantages
+- Bonus vs Mounted 50 %
 - Combat strength greater than Chariot Archer (due to multiple Hussits on wagon)
 - Can build improvements on tiles (tools on wagon)
 - Founds a new city (was used for creating of warior camps like Tábor city)
