@@ -33,7 +33,6 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Bonus vs Mounted 50 %
 - Combat strength greater than Chariot Archer (due to multiple Hussits on wagon)
 - Can build improvements on tiles (tools on wagon)
-- Founds a new city (was used for creating of warior camps like Tábor city)
 - Heals 50 damage (Hussits was almost invincible with their wagons)
 - Can construct roads (tools on wagon)
 - Combat very likely to create Great General (there was lot of great generals in Hussite history like Jan Žižka z trocnova or Jan Želivský)
@@ -42,7 +41,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 
 ###### Disadvantages
 - Cost 50 % more than Chariot Archer (due to more material)
-- Movement 25 % of Chariot Archer (used as wall unit primary)
+- Movement 50 % of Chariot Archer (used as wall unit primary)
 - Cannot enter ocean tiles (no access to ocean in history)
 - Must set up to ranged attack (Hussites must prepare itself for fight)
 - Penalty vs City 33 % (used for defense only)
