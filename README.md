@@ -57,7 +57,7 @@ New luxury resource. Grows on grasslands and plains and provide gold.
 #### New techs
 
 ##### Brewing
-Unlocks Hop garden improvement for Hops luxury resource and Brewery building. Requires Calendar for unlock.
+Unlocks Hop garden improvement for Hops luxury resource and Brewery building. Requires Calendar for unlock. Required for Philosophy tech.
 
 #### New improvements
 
