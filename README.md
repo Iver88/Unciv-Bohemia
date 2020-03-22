@@ -34,7 +34,6 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Combat strength greater than Chariot Archer (due to multiple Hussits on wagon)
 - Can build improvements on tiles (tools on wagon)
 - Founds a new city (was used for creating of warior camps like Tábor city)
-- Heals 50 damage (Hussits was almost invincible with their wagons)
 - Can construct roads (tools on wagon)
 - Combat very likely to create Great General (there was lot of great generals in Hussite history like Jan Žižka z trocnova or Jan Želivský)
 - +1 Visibility Range (used as mobile border control point)
