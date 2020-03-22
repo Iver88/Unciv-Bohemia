@@ -67,7 +67,7 @@ Improvement for Hops luxury resource. Required for Brewery building. Unlocked by
 #### New buidings
 
 ##### Brewery
-New building which decreasing production, but increasing hapiness, food, culture and gold income. Removes unhappiness in anexed cities and providing free great person. Requires Brewing tech and Hop garden improvement.
+New building which decreasing production, but increasing hapiness, food, culture and gold income. Removes unhappiness in anexed cities and providing free great person. Requires Brewing tech and Hop garden improvement on city tiles.
 
 ## Recommend modifications
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
