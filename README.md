@@ -47,6 +47,11 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Penalty vs City 33 % (used for defense only)
 - Need horses
 
+### City states
+
+#### Loket
+Militaristic city, prison of Charles IV.
+
 ## Recommend modifications
 - [Brewing by Naprogramuji.eu ℠](https://github.com/Iver88/Unciv-Brewing)
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
@@ -54,7 +59,6 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 ## Todo
 - Czech and german translation (for cities as well, variations depending on language for each language)
 - Nation texts
-- Loket city state (home of Charles IV. not included in nation cities due to small size)
 - Charles university (unique building replacing Oxford University)
 - Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
 - Baťa works (4 Production, +4 Happiness? Needs horses, sheep, deer, furs, ivory, wild boar or cattle in city)
