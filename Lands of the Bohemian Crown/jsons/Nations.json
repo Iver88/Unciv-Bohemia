@@ -9,8 +9,8 @@
 			"Hill"
 		],
 		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "Oh ye who remakes the world, your loyal subjects greet you, King Pachacuti Sapa Inca, ruler of Tawantinsuyu and the Inca people! From the beginnings in the small state of Cusco, the Incans displayed their potential for greatness, marching to war against their many enemies, crushing their armies into dust and carving for themselves a mighty empire stretching from Ecuador to Chile. Indeed, they build the greatest empire ever seen in all pre-Columbian Americas. More than mere soldiers, your people were great builders and artists as well, and the remnants of their works still awe and inspire the world today.",
-		"startIntroPart2": "Oh King Pachacuti, truly are you called 'Earth Shaker'! Will you once again call upon the ground itself to a fight at your side? Your armies await your signal. Will you restore the glory of your empire? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "O King of all Czechs, Moravian and Silesians. Thou who are the greatest of us Czechs who have ever lived. Holy Roman Emperor. Your whole life is synonym of peace, prosperity and diligence. It was under your hand that our country began to flourish. You built a stone bridge over the Vltava river, who founded a big european university and you, who fed the hungry when building the Hungry wall. There will never be a greater ruler than you.",
+		"startIntroPart2": "The most beloved of us, benevolent Charles, once again lead our nation to prosperity. Bring our nation to the Roman throne and do not leave us. Raise your bow once more while hunting in your rich forests. After your death, there will no longer be as great ruler as you are. You will remain unforgettable.",
 		"declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
@@ -102,6 +102,30 @@
 			"Egha",
 			"Kolín",
 			"Trautenau"
+		]
+	},
+	//City state
+	{
+		"name": "Loket",
+		"adjective": [
+			"Loket's"
+		],
+		"cityStateType": "Militaristic",
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [
+			0,
+			0,
+			0
+		],
+		"innerColor": [
+			91,
+			67,
+			80
+		],
+		"cities": [
+			"Loket"
 		]
 	}
 ]
