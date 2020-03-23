@@ -53,10 +53,11 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 
 ## Todo
 - Nation texts
-- Honey (unique bonus resource, standalone mod)
 - Beekeeping (new tech, standalone mod)
 - Charles University (unique building replacing Oxford University)
 - Loket city state (home of Charles IV. not included in nation cities due to small size)
+- Karel Čapek (great artist)
+- Tomáš Baťa (great merchant)
 - Jan Hus (great prophet)
 - Jan Žižka z Trocnova (great general)
 - Jan Želivský (great general)
