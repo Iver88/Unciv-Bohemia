@@ -30,12 +30,12 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Cost: 112
 
 ###### Advantages
-- Bonus vs Mounted 50 %
+- Bonus vs Mounted 50 % (great warriors against knights)
 - Combat strength greater than Chariot Archer (due to multiple Hussits on wagon)
 - Can build improvements on tiles (tools on wagon)
 - Founds a new city (was used for creating of warior camps like Tábor city)
 - Can construct roads (tools on wagon)
-- Combat very likely to create Great General (there was lot of great generals in Hussite history like Jan Žižka z trocnova or Jan Želivský)
+- Combat very likely to create Great General (there was lot of great generals in Hussite history like Jan Žižka z Trocnova or Jan Želivský)
 - +1 Visibility Range (used as mobile border control point)
 - 25 % lesser gold price (patriotism)
 
@@ -52,11 +52,13 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
 
 ## Todo
+- Czech and german translation (for cities as well, variations depending on language for each language)
 - Nation texts
-- Honey (unique bonus resource, standalone mod)
 - Beekeeping (new tech, standalone mod)
 - Charles University (unique building replacing Oxford University)
 - Loket city state (home of Charles IV. not included in nation cities due to small size)
+- Karel Čapek (great artist)
+- Tomáš Baťa (great merchant)
 - Jan Hus (great prophet)
 - Jan Žižka z Trocnova (great general)
 - Jan Želivský (great general)
