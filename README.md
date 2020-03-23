@@ -52,7 +52,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
 
 ## Todo
-- Czech and german translation (for cities as well, Prague and Prag depending on language)
+- Czech and german translation (for cities as well, variations depending on language for each language)
 - Nation texts
 - Beekeeping (new tech, standalone mod)
 - Charles University (unique building replacing Oxford University)
