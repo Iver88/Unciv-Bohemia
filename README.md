@@ -30,12 +30,12 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 - Cost: 112
 
 ###### Advantages
-- Bonus vs Mounted 50 %
+- Bonus vs Mounted 50 % (great warriors against knights)
 - Combat strength greater than Chariot Archer (due to multiple Hussits on wagon)
 - Can build improvements on tiles (tools on wagon)
 - Founds a new city (was used for creating of warior camps like Tábor city)
 - Can construct roads (tools on wagon)
-- Combat very likely to create Great General (there was lot of great generals in Hussite history like Jan Žižka z trocnova or Jan Želivský)
+- Combat very likely to create Great General (there was lot of great generals in Hussite history like Jan Žižka z Trocnova or Jan Želivský)
 - +1 Visibility Range (used as mobile border control point)
 - 25 % lesser gold price (patriotism)
 
