@@ -54,9 +54,11 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 ## Todo
 - Czech and german translation (for cities as well, variations depending on language for each language)
 - Nation texts
-- Beekeeping (new tech, standalone mod)
-- Charles University (unique building replacing Oxford University)
 - Loket city state (home of Charles IV. not included in nation cities due to small size)
+- Charles university (unique building replacing Oxford University)
+- Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
+- Baťa works (4 Production, +4 Happiness? Needs horses, sheep, deer, furs, ivory, wild boar or cattle in city)
+- Beekeeping (new tech, standalone mod)
 - Karel Čapek (great artist)
 - Tomáš Baťa (great merchant)
 - Jan Hus (great prophet)
