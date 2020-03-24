@@ -57,7 +57,6 @@ Militaristic city, prison of Charles IV.
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
 
 ## Todo
-- Czech and german translation (for cities as well, variations depending on language for each language)
 - Nation texts
 - Charles university (unique building replacing Oxford University)
 - Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
