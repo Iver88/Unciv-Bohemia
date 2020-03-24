@@ -59,31 +59,31 @@
 			255,
 			255
 		],
-		"uniqueName": "Hearth of Europe",
+		"uniqueName": "In the Hearth of Europe",
 		"unique": "ACHAEMENID_LEGACY",
 		"cities": [
 			"Prague",
 			"Wrocław",
 			"Brünn",
-			"Ostrau",
-			"Katowice",
+			"Ostrawa",
+			"Katowicy",
 			"Pilsen",
-			"Opole",
+			"Uopole",
 			"Reichenberg",
-			"Cottbus",
-			"Olmütz",
+			"Chóśebuz",
+			"Ołomuniec",
 			"Budweis",
-			"Aussig",
+			"Aussig an der Elbe",
 			"Königgrätz",
 			"Pardubitz",
 			"Zlín",
 			"Hawierzów",
 			"Kladen",
 			"Brüx",
-			"Opawa",
+			"Uopawa",
 			"Friedeck-Mistek",
-			"Racibórz",
-			"Karwin",
+			"Racibōrz",
+			"Karwina",
 			"Iglau",
 			"Teplitz-Schönau",
 			"Tetschen",
@@ -106,9 +106,9 @@
 	},
 	//City state
 	{
-		"name": "Loket",
+		"name": "Elbogen",
 		"adjective": [
-			"Loket's"
+			"Elbogen"
 		],
 		"cityStateType": "Militaristic",
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -125,7 +125,7 @@
 			80
 		],
 		"cities": [
-			"Loket"
+			"Elbogen"
 		]
 	}
 ]
