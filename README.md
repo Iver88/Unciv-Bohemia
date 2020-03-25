@@ -25,7 +25,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 
 - Type: Ranged (inventors of ranged gun powder guns - "Píšťala => Pistol")
 - Required tech: Theology (creation of Hussite movement by Jan Hus)
-- Upgrades to: Knight (Hussite Crusades)
+- Upgrades to: Knight
 - Obsolete tech: Military Science (no need for war wagons)
 - Cost: 112
 
