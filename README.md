@@ -49,7 +49,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 
 ### City states
 
-#### Loket
+#### Elbogen
 Militaristic city, prison of Charles IV.
 
 ## Recommend modifications
