@@ -41,7 +41,7 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 
 ###### Disadvantages
 - Cost 50 % more than Chariot Archer (due to more material)
-- Movement 25 % of Chariot Archer (used as wall unit primary)
+- Movement 50 % of Chariot Archer (used as wall unit primary)
 - Cannot enter ocean tiles (no access to ocean in history)
 - Must set up to ranged attack (Hussites must prepare itself for fight)
 - Penalty vs City 33 % (used for defense only)
