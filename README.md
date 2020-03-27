@@ -16,7 +16,7 @@ Every feature is based on historical context.
 - Colors: Royal purple and white (due to lot of civs with red and white combination and as reference for similar CIV5 mod)
 
 ### Czech Soundtrack
-Bedřich Smetana's, Antonín Dvořák's & František Škroup's music.
+Bedřich Smetana's, Antonín Dvořák's and František Škroup's music.
 
 #### Uniques
 
