@@ -15,6 +15,9 @@ Every feature is based on historical context.
 - Starting location: Hills (based on legend of settlement of Prague by forefather Čech under Říp hill)
 - Colors: Royal purple and white (due to lot of civs with red and white combination and as reference for similar CIV5 mod)
 
+### Czech Soundtrack
+Bedřich Smetana's, Antonín Dvořák's & František Škroup's music.
+
 #### Uniques
 
 ##### Hearth of Europe
