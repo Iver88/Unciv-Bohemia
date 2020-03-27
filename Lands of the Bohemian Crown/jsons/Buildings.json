@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Charles University",
+		"replaces": "Oxford University",
+		"science": 1,
+		"culture": 3,
+		"isNationalWonder": true,
+		"percentStatBonus": {
+			"science": 10,
+			"culture": 30
+		},
+		"uniques": [
+			"+33% great person generation in all cities"
+		],
+		"requiredTech": "Education",
+		"uniqueTo": "Lands of the Bohemian Crown",
+		"maintenance": 5,
+		"greatPersonPoints": {
+			"science": 1,
+			"culture": 3
+		},
+		"quote": "'Study without desire spoils the memory, and it retains nothing that it takes in.' - Leonardo da Vinci"
+	}
+]
