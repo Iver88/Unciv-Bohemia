@@ -61,6 +61,7 @@ Militaristic city, prison of Charles IV.
 ## Recommend modifications
 - [Brewing by Naprogramuji.eu ℠](https://github.com/Iver88/Unciv-Brewing)
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
+- [Niter (Civ6) by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/693005976005247026/Niter_Resource.zip)
 
 ## Todo
 - Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
