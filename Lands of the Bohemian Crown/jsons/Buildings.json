@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Charles University",
+		"cost": 500,
 		"replaces": "Oxford University",
 		"science": 1,
 		"culture": 3,
@@ -20,5 +21,29 @@
 			"culture": 3
 		},
 		"quote": "'Study without desire spoils the memory, and it retains nothing that it takes in.' - Leonardo da Vinci"
+	},
+	{
+		"name": "Škoda Works",
+		"cost": 920,
+		"production": 5,
+		"isNationalWonder": true,
+		"uniques": [
+			"Gold cost of upgrading military units reduced by 33%"
+		],
+		"requiredTech": "Industrialization",
+		"hurryCostModifier": 0,
+		"requiredResource": "Coal",
+		"requiredNearbyImprovedResources": [
+			"Copper",
+			"Iron",
+			"Aluminium"
+		],
+		"percentStatBonus": {
+			"production": 11
+		},
+		"specialistSlots": {
+			"production": 3
+		},
+		"quote": "'By means of industry and perseverance you will rise higher and higher.' - Robert Schumann"
 	}
 ]
