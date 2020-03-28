@@ -59,9 +59,10 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 Militaristic city, prison of Charles IV.
 
 ## Recommend modifications
-[![Brewing by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Fermentation-blue?style=for-the-badge&logo=appveyor)](https://github.com/Iver88/Unciv-Brewing)\
-[![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)\
+[![Brewing by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Fermentation-blue?style=for-the-badge&logo=appveyor)](https://github.com/Iver88/Unciv-Brewing)
+[![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)
 [![Niter (Civ6) by u-ndefined](https://img.shields.io/badge/u–ndefined-Niter%20%28Civ6%29-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)
+[![Other mods](https://img.shields.io/badge/Other%20mods-Feel%20free%20to%20use-blue?style=for-the-badge&logo=appveyor)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
 
 ## Todo
 - Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
@@ -78,9 +79,10 @@ Militaristic city, prison of Charles IV.
 - Kdož jste boží bojovníci (civ unique instead of actual)
 
 ## Credits
-- [Crown](https://thenounproject.com/search/?q=crown&i=1773546) by OneShot for Lands of the Bohemian Crown nation
-- [wagon](https://thenounproject.com/search/?q=wagon&i=2054826) by Mohamed Mbarki for Hussite war wagon unit
-- [university](https://thenounproject.com/search/?q=university&i=1317068) by Maxim Basinski for Charles University wonder
+[![Crown by OneShot](https://img.shields.io/badge/OneShot-Fermentation%20tech%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=fermenting&i=217198)
+[![wagon by Mohamed Mbarki](https://img.shields.io/badge/Mohamed%20Mbarki-Hussite%20war%20Wagon%20unit%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=wagon&i=2054826)
+[![university by Maxim Basinski](https://img.shields.io/badge/Maxim%20Basinski-Charles%20University%20wonder%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=university&i=1317068)
+
 - [Smetana - Vyšehrad](https://www.youtube.com/watch?v=04SMDpMkOI8) by Boston Symphony Orchestra, Rafael Kubelik for "The High Castle" ambient and peace soundtrack
 - [Smetana - Vltava (The Moldau)](https://www.youtube.com/watch?v=34oeAxETdbc) by Boston Symphony Orchestra, Rafael Kubelik for "Moldau" ambient and peace soundtrack
 - [Smetana - Šárka](https://www.youtube.com/watch?v=3G4NKzmfC-Q) by Boston Symphony Orchestra, Rafael Kubelik for "Šárka" war soundtrack
