@@ -60,8 +60,8 @@ Militaristic city, prison of Charles IV.
 
 ## Recommend modifications
 [![Brewing by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Fermentation-blue?style=for-the-badge&logo=appveyor)](https://github.com/Iver88/Unciv-Brewing)\
-[![G&K Resources by u-ndefined](https://img.shields.io/badge/u-ndefined-G%26K%20Resources-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)\
-[![Niter (Civ6) by u-ndefined](https://img.shields.io/badge/u-ndefined-Niter%20%28Civ6%29-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)
+[![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)\
+[![Niter (Civ6) by u-ndefined](https://img.shields.io/badge/u–ndefined-Niter%20%28Civ6%29-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)
 
 ## Todo
 - Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
