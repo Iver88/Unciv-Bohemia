@@ -68,6 +68,7 @@ Militaristic city, prison of Charles IV.
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/tomastriska)
 
 ## Todo
+- Max 2 uniques for unit?
 - Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
 - Baťa works (4 Production, +4 Happiness? Needs horses, sheep, deer, furs, ivory, wild boar or cattle in city)
 - Beekeeping (new tech, standalone mod)
