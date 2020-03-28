@@ -23,8 +23,13 @@ Bedřich Smetana's, Antonín Dvořák's and František Škroup's music.
 ##### Hearth of Europe
 Golden Ages last 50 % longer. During a Golden Age, unit receive + 1 Movement and + 10 % Strength
 
-##### Charles University wonder
+#### Buildings
+
+##### Charles University nation wonder
 First central Europe university founded by Charles IV. Lower science income but higher culture income. Generates additional 33% for great people in all cities and more points to science and mainly culture. Little expensive.
+
+##### Škoda Works wonder
+One of the largest European industrial conglomerates of the 20th century, founded by Czech engineer Emil Škoda in 1859 in Pilsen. Higher production, production percentage bonus and more specialist slots then Factory but needs Coal and Copper/Iron/Aluminium resource improvement in city. Gold cost of upgrading military units reduced by 33%. Compatible with [![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=flat-square&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding) copper resource.
 
 ##### Hussite War Wagon unit
 Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for building camps and roads. Replaces Chariot Archer.
@@ -68,6 +73,7 @@ Militaristic city, prison of Charles IV.
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/tomastriska)
 
 ## Todo
+- Max 2 uniques for unit?
 - Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
 - Baťa works (4 Production, +4 Happiness? Needs horses, sheep, deer, furs, ivory, wild boar or cattle in city)
 - Beekeeping (new tech, standalone mod)
@@ -75,11 +81,14 @@ Militaristic city, prison of Charles IV.
 - Karel Čapek (great artist)
 - Tomáš Baťa (great merchant)
 - František Křižík (great engineer)
+- Emil Škoda
 - Jan Hus (great prophet)
 - Jan Žižka z Trocnova (great general)
 - Jan Želivský (great general)
 - Possibility for Hussite War Wagon to founds a new city when full health
-- Kdož jste boží bojovníci (civ unique instead of actual)
+- Civ unique instead of actual
+- Removing of unnecessary techs references
+- More czech classic and historical music
 
 ## Credits
 [![Crown by OneShot](https://img.shields.io/badge/OneShot-Fermentation%20tech%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=fermenting&i=217198)
@@ -92,10 +101,9 @@ Militaristic city, prison of Charles IV.
 [![Ktož sú boží boží bojovníci by Josef Veselka](https://img.shields.io/badge/Josef%20Veselka-Bed%C5%99ich%20Smetana%20–%20Ye%20Who%20Are%20Warriors%20of%20God%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=elskCac9wSI)
 [![Smetana - Tábor by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Ye%20Who%20Are%20Warriors%20of%20God%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=YsC5KSjlJL4)
 [![Smetana - Blaník by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Blaník%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=U3OlxR2tq-A)
-
-- [Česká hymna](https://www.youtube.com/watch?v=vOtoPi9hfCo) by Unknown artist for "Where my home" peace soundtrack
-- [Dvorák - Carnival Overture - Fritz Reiner - 1956](https://www.youtube.com/watch?v=bEBl_d9DGpc) by Boston Symphony Orchestra, Fritz Reiner for "Carnival Overture" ambient and peace soundtrack
-- [Dvorák - Symphony No.9, 1st movement - Sir Georg Solti - 1983](https://www.youtube.com/watch?v=OlKixeZkP4c) by Boston Symphony Orchestra, Sir Georg Solti for "From the New World, 1st movement" war soundtrack
-- [Dvorák - Symphony No.9, 2nd movement - Sir Georg Solti - 1983](https://www.youtube.com/watch?v=nsQ65cF2Ew4) by Boston Symphony Orchestra, Sir Georg Solti for "From the New World, 2nd movement" war soundtrack
-- [Dvorák- Symphony No.9, 3rd movement - Sir Georg Solti - 1983](https://www.youtube.com/watch?v=soGhN8ByS9U) by Boston Symphony Orchestra, Sir Georg Solti for "From the New World, 3rd movement" war soundtrack
-- [Dvorák- Symphony No.9, 4th movement - Sir Georg Solti - 1983](https://www.youtube.com/watch?v=hPgoHOpRzdY) by Boston Symphony Orchestra, Sir Georg Solti for "From the New World, 4th movement" war soundtrack
+[![Česká hymna by unknown artist](https://img.shields.io/badge/Unknown%20artist-Franti%C5%A1ek%20%C5%A0kroup%20–%20Where%20my%20home%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=vOtoPi9hfCo)
+[![Dvorák - Carnival Overture - Fritz Reiner - 1956 by Boston Symphony Orchestra, Fritz Reiner](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Fritz%20Reiner-Anton%C3%ADn%20Dvo%C5%99%C3%A1k%20–%20Carnival%20Overture%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=bEBl_d9DGpc)
+[![Dvorák - Symphony No.9, 1st movement - Sir Georg Solti - 1983 by Boston Symphony Orchestra, Sir Georg Solti](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Sir%20Georg%20Solti-Anton%C3%ADn%20Dvo%C5%99%C3%A1k%20–%20From%20the%20New%20World%2C%201st%20movement%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=OlKixeZkP4c)
+[![Dvorák - Symphony No.9, 2nd movement - Sir Georg Solti - 1983 by Boston Symphony Orchestra, Sir Georg Solti](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Sir%20Georg%20Solti-Anton%C3%ADn%20Dvo%C5%99%C3%A1k%20–%20From%20the%20New%20World%2C%202nd%20movement%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=nsQ65cF2Ew4)
+[![Dvorák - Symphony No.9, 3rd movement - Sir Georg Solti - 1983 by Boston Symphony Orchestra, Sir Georg Solti](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Sir%20Georg%20Solti-Anton%C3%ADn%20Dvo%C5%99%C3%A1k%20–%20From%20the%20New%20World%2C%203rd%20movement%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=soGhN8ByS9U)
+[![Dvorák - Symphony No.9, 4th movement - Sir Georg Solti - 1983 by Boston Symphony Orchestra, Sir Georg Solti](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Sir%20Georg%20Solti-Anton%C3%ADn%20Dvo%C5%99%C3%A1k%20–%20From%20the%20New%20World%2C%204th%20movement%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=hPgoHOpRzdY)
