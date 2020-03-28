@@ -93,7 +93,7 @@ Militaristic city, prison of Charles IV.
 [![Smetana - Tábor by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Ye%20Who%20Are%20Warriors%20of%20God%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=YsC5KSjlJL4)
 [![Smetana - Blaník by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Blaník%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=U3OlxR2tq-A)
 
-- [Česká hymna](https://www.youtube.com/watch?v=vCbRsGMb1fs) by Unknown artist for "Where my home" peace soundtrack
+- [Česká hymna](https://www.youtube.com/watch?v=vOtoPi9hfCo) by Unknown artist for "Where my home" peace soundtrack
 - [Dvorák - Carnival Overture - Fritz Reiner - 1956](https://www.youtube.com/watch?v=bEBl_d9DGpc) by Boston Symphony Orchestra, Fritz Reiner for "Carnival Overture" ambient and peace soundtrack
 - [Dvorák - Symphony No.9, 1st movement - Sir Georg Solti - 1983](https://www.youtube.com/watch?v=OlKixeZkP4c) by Boston Symphony Orchestra, Sir Georg Solti for "From the New World, 1st movement" war soundtrack
 - [Dvorák - Symphony No.9, 2nd movement - Sir Georg Solti - 1983](https://www.youtube.com/watch?v=nsQ65cF2Ew4) by Boston Symphony Orchestra, Sir Georg Solti for "From the New World, 2nd movement" war soundtrack
