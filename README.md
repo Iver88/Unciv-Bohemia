@@ -29,7 +29,7 @@ Golden Ages last 50 % longer. During a Golden Age, unit receive + 1 Movement and
 First central Europe university founded by Charles IV. Lower science income but higher culture income. Generates additional 33% for great people in all cities and more points to science and mainly culture. Little expensive.
 
 ##### Škoda Works wonder
-One of the largest European industrial conglomerates of the 20th century, founded by Czech engineer Emil Škoda in 1859 in Pilsen. Higher production, production percentage bonus and more specialist slots then Factory but needs Coal and Copper/Iron/Aluminium resource improvement in city. Gold cost of upgrading military units reduced by 33%. Compatible with [![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=flat-square&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding) copper resource.
+One of the largest European industrial conglomerates of the 20th century, founded by Czech engineer Emil Škoda in 1859 in Pilsen. Higher production, production percentage bonus and more specialist slots then Factory but needs Coal and Copper [![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=flat-square&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding), Iron or Aluminium resource improvement in city. Gold cost of upgrading military units reduced by 33%. Compatible with copper resource.
 
 ##### Hussite War Wagon unit
 Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for building camps and roads. Replaces Chariot Archer.
