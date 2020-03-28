@@ -86,13 +86,13 @@ Militaristic city, prison of Charles IV.
 [![wagon by Mohamed Mbarki](https://img.shields.io/badge/Mohamed%20Mbarki-Hussite%20war%20Wagon%20unit%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=wagon&i=2054826)
 [![university by Maxim Basinski](https://img.shields.io/badge/Maxim%20Basinski-Charles%20University%20wonder%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=university&i=1317068)
 [![Smetana - Vyšehrad by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20The%20High%20Castle%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=04SMDpMkOI8)
+[![Smetana - Vlatava by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20The%20Moldau%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=34oeAxETdbc)
+[![Smetana - Šárka by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Šárka%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=3G4NKzmfC-Q)
+[![Smetana - From Bohemia's Woods and Fields by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20From%20Bohemia%27s%20Woods%20and%20Fields%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=BcO4iyY22nA)
+[![Ktož sú boží boží bojovníci by Josef Veselka](https://img.shields.io/badge/Josef%20Veselka-Bed%C5%99ich%20Smetana%20–%20Tábor%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=elskCac9wSI)
+[![Smetana - Tábor by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Ye%20Who%20Are%20Warriors%20of%20God%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=YsC5KSjlJL4)
+[![Smetana - Blaník by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Blaník%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=U3OlxR2tq-A)
 
-- [Smetana - Vltava (The Moldau)](https://www.youtube.com/watch?v=34oeAxETdbc) by Boston Symphony Orchestra, Rafael Kubelik for "Moldau" ambient and peace soundtrack
-- [Smetana - Šárka](https://www.youtube.com/watch?v=3G4NKzmfC-Q) by Boston Symphony Orchestra, Rafael Kubelik for "Šárka" war soundtrack
-- [Smetana - From Bohemia's Woods and Fields](https://www.youtube.com/watch?v=BcO4iyY22nA) by Boston Symphony Orchestra, Rafael Kubelik for "From Bohemia's Woods and Fields" war soundtrack
-- [Ktož sú boží boží bojovníci](https://www.youtube.com/watch?v=elskCac9wSI) by Josef Veselka for "Ye Who Are Warriors of God" theme soundtrack
-- [Smetana - Tábor](https://www.youtube.com/watch?v=YsC5KSjlJL4) by Boston Symphony Orchestra, Rafael Kubelik for "Ye Who Are Warriors of God" war soundtrack
-- [Smetana - Blaník](https://www.youtube.com/watch?v=U3OlxR2tq-A) by Boston Symphony Orchestra, Rafael Kubelik for "Blaník" war soundtrack
 - [Česká hymna](https://www.youtube.com/watch?v=vCbRsGMb1fs) by Unknown artist for "Where my home" peace soundtrack
 - [Dvorák - Carnival Overture - Fritz Reiner - 1956](https://www.youtube.com/watch?v=bEBl_d9DGpc) by Boston Symphony Orchestra, Fritz Reiner for "Carnival Overture" ambient and peace soundtrack
 - [Dvorák - Symphony No.9, 1st movement - Sir Georg Solti - 1983](https://www.youtube.com/watch?v=OlKixeZkP4c) by Boston Symphony Orchestra, Sir Georg Solti for "From the New World, 1st movement" war soundtrack
