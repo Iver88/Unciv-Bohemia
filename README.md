@@ -75,6 +75,7 @@ Militaristic city, prison of Charles IV.
 - Karel Čapek (great artist)
 - Tomáš Baťa (great merchant)
 - František Křižík (great engineer)
+- Emil Škoda
 - Jan Hus (great prophet)
 - Jan Žižka z Trocnova (great general)
 - Jan Želivský (great general)
