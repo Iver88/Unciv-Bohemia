@@ -64,6 +64,9 @@ Militaristic city, prison of Charles IV.
 [![Niter (Civ6) by u-ndefined](https://img.shields.io/badge/u–ndefined-Niter%20%28Civ6%29-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)
 [![Other mods](https://img.shields.io/badge/Other%20mods-Feel%20free%20to%20use-blue?style=for-the-badge&logo=appveyor)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
 
+## Contribute
+[![Patreon](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Patreon-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/tomastriska)
+
 ## Todo
 - Škoda works (+4 Production, all Armor and Artillery units produced in this city get +20 XP? Needs iron or copper resource in city)
 - Baťa works (4 Production, +4 Happiness? Needs horses, sheep, deer, furs, ivory, wild boar or cattle in city)
