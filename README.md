@@ -79,7 +79,8 @@ Militaristic city, prison of Charles IV.
 - Jan Žižka z Trocnova (great general)
 - Jan Želivský (great general)
 - Possibility for Hussite War Wagon to founds a new city when full health
-- Kdož jste boží bojovníci (civ unique instead of actual)
+- Civ unique instead of actual
+- More czech classic and historical music
 
 ## Credits
 [![Crown by OneShot](https://img.shields.io/badge/OneShot-Fermentation%20tech%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=fermenting&i=217198)
