@@ -80,6 +80,7 @@ Militaristic city, prison of Charles IV.
 - Jan Želivský (great general)
 - Possibility for Hussite War Wagon to founds a new city when full health
 - Civ unique instead of actual
+- Removing of unnecessary techs references
 - More czech classic and historical music
 
 ## Credits
