@@ -29,7 +29,7 @@ Golden Ages last 50 % longer. During a Golden Age, unit receive + 1 Movement and
 First central Europe university founded by Charles IV. Lower science income but higher culture income. Generates additional 33% for great people in all cities and more points to science and mainly culture. Little expensive.
 
 ##### Škoda Works wonder
-One of the largest European industrial conglomerates of the 20th century, founded by Czech engineer Emil Škoda in 1859 in Pilsen. Higher production, production percentage bonus and more specialist slots then Factory but needs Coal and Copper [![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=flat-square&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding), Iron or Aluminium resource improvement in city. Gold cost of upgrading military units reduced by 33%. Compatible with copper resource.
+One of the largest European industrial conglomerates of the 20th century, founded by Czech engineer Emil Škoda in 1859 in Pilsen. Higher production, production percentage bonus and more specialist slots then Factory but needs Coal and Copper [![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=flat-square)](https://github.com/u-ndefine/Unciv-Modding), Iron or Aluminium resource improvement in city. Gold cost of upgrading military units reduced by 33%. Compatible with copper resource.
 
 ##### Hussite War Wagon unit
 Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for building camps and roads. Replaces Chariot Archer.
@@ -64,10 +64,10 @@ Bohemian unique slow multipurpose mobile wagon wall unit used by Hussites for bu
 Militaristic city, prison of Charles IV.
 
 ## Recommend modifications
-[![Brewing by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Fermentation-blue?style=for-the-badge&logo=appveyor)](https://github.com/Iver88/Unciv-Brewing)
-[![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)
-[![Niter (Civ6) by u-ndefined](https://img.shields.io/badge/u–ndefined-Niter%20%28Civ6%29-blue?style=for-the-badge&logo=appveyor)](https://github.com/u-ndefine/Unciv-Modding)
-[![Other mods](https://img.shields.io/badge/Other%20mods-Feel%20free%20to%20use-blue?style=for-the-badge&logo=appveyor)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
+[![Brewing by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Fermentation-blue?style=for-the-badge)](https://github.com/Iver88/Unciv-Brewing)
+[![G&K Resources by u-ndefined](https://img.shields.io/badge/u–ndefined-G%26K%20Resources-blue?style=for-the-badge)](https://github.com/u-ndefine/Unciv-Modding)
+[![Niter (Civ6) by u-ndefined](https://img.shields.io/badge/u–ndefined-Niter%20%28Civ6%29-blue?style=for-the-badge)](https://github.com/u-ndefine/Unciv-Modding)
+[![Other mods](https://img.shields.io/badge/Other%20mods-Feel%20free%20to%20use-blue?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
 
 ## Donations
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/tomastriska)
@@ -91,15 +91,15 @@ Militaristic city, prison of Charles IV.
 
 ## Credits
 [![Crown by OneShot](https://img.shields.io/badge/OneShot-Fermentation%20tech%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=fermenting&i=217198)
-[![wagon by Mohamed Mbarki](https://img.shields.io/badge/Mohamed%20Mbarki-Hussite%20war%20Wagon%20unit%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=wagon&i=2054826)
-[![university by Maxim Basinski](https://img.shields.io/badge/Maxim%20Basinski-Charles%20University%20wonder%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=university&i=1317068)
+[![wagon by Mohamed Mbarki](https://img.shields.io/badge/Mohamed%20Mbarki-Hussite%20war%20Wagon%20unit%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=wagon&i=2054826)
+[![university by Maxim Basinski](https://img.shields.io/badge/Maxim%20Basinski-Charles%20University%20wonder%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=university&i=1317068)
 [![Smetana - Vyšehrad by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20The%20High%20Castle%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=04SMDpMkOI8)
 [![Smetana - Vlatava by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20The%20Moldau%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=34oeAxETdbc)
 [![Smetana - Šárka by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Šárka%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=3G4NKzmfC-Q)
 [![Smetana - From Bohemia's Woods and Fields by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20From%20Bohemia%27s%20Woods%20and%20Fields%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=BcO4iyY22nA)
 [![Ktož sú boží boží bojovníci by Josef Veselka](https://img.shields.io/badge/Josef%20Veselka-Bed%C5%99ich%20Smetana%20–%20Ye%20Who%20Are%20Warriors%20of%20God%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=elskCac9wSI)
 [![Smetana - Tábor by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Ye%20Who%20Are%20Warriors%20of%20God%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YsC5KSjlJL4)
-[![Smetana - Blaník by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Blaník%20song-blue?style=flat-square&logo=appveyor)](https://www.youtube.com/watch?v=U3OlxR2tq-A)
+[![Smetana - Blaník by Boston Symphony Orchestra, Rafael Kubelik](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Rafael%20Kubelik-Bed%C5%99ich%20Smetana%20–%20Blaník%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=U3OlxR2tq-A)
 [![Česká hymna by unknown artist](https://img.shields.io/badge/Unknown%20artist-Franti%C5%A1ek%20%C5%A0kroup%20–%20Where%20my%20home%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=vOtoPi9hfCo)
 [![Dvorák - Carnival Overture - Fritz Reiner - 1956 by Boston Symphony Orchestra, Fritz Reiner](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Fritz%20Reiner-Anton%C3%ADn%20Dvo%C5%99%C3%A1k%20–%20Carnival%20Overture%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=bEBl_d9DGpc)
 [![Dvorák - Symphony No.9, 1st movement - Sir Georg Solti - 1983 by Boston Symphony Orchestra, Sir Georg Solti](https://img.shields.io/badge/Boston%20Symphony%20Orchestra%2C%20Sir%20Georg%20Solti-Anton%C3%ADn%20Dvo%C5%99%C3%A1k%20–%20From%20the%20New%20World%2C%201st%20movement%20song-blue?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=OlKixeZkP4c)
